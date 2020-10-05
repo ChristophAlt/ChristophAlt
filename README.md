@@ -59,5 +59,12 @@
 
 ### Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=RelEx&show_owner=true)](https://github.com/dfki-nlp/RelEx)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=OLM&show_owner=true)](https://github.com/dfki-nlp/OLM)
+<p align="center">
+  <a align="center" href="https://github.com/dfki-nlp/RelEx">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=RelEx&show_owner=true"/>
+  </a>
+  
+  <a align="center" href="https://github.com/dfki-nlp/OLM">
+     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=OLM&show_owner=true"/>
+  </a>
+</p>
