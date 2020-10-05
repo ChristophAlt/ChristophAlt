@@ -56,3 +56,8 @@
      <img src="https://github-readme-stats.vercel.app/api?username=christophalt&count_private=true&show_icons=true"/>
   </a>
 </p>
+
+### Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=RelEx&show_owner=true)](https://github.com/dfki-nlp/RelEx)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dfki-nlp&repo=OLM&show_owner=true)](https://github.com/dfki-nlp/OLM)
