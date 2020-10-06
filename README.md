@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Christoph, a researcher / software engineer with 4+ years of experience (research and applied) in machine learning & natural language processing & distributed computing. Fluent in Python, Java, Python’s scientific and machine learning stack, recent deep learning and natural language processing frameworks, Docker, and AWS. I am passionate about solving difficult problems with little data.
+
+Currently, I'm a researcher and PhD student at the [German Research Center for AI](https://www.dfki.de/en/web/research/research-departments/speech-and-language-technology/) in Berlin. My goal is to solve complex natural language understanding problems with limited (labeled) data, e.g., via transfer-learning, multi-task learning, few- and zero-shot learning.
+
 ### Contact
 
 <p align="center">
