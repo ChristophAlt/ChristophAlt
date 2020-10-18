@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChristophAlt" alt="ChristophAlt" /> </p>
 
 I'm Christoph, a researcher / software engineer with 4+ years of experience (research and applied) in machine learning & natural language processing & distributed computing. Fluent in Python, Java, Python’s scientific and machine learning stack, recent deep learning and natural language processing frameworks, Docker, and AWS. I am passionate about solving difficult problems with little data.
 
@@ -8,7 +9,7 @@ Currently, I'm a researcher and PhD student at the [German Research Center for A
 
 <p align="center">
 <!-- 2bc2d3 -->
-<a href="https://christophalt.github.io"><img src="https://img.shields.io/badge/-christophalt.github.io-089400?style=for-the-badge&logo=Microsoft-Edge&logoColor=white" /></a>
+<a href="https://christophalt.github.io"><img src="https://img.shields.io/badge/-website-089400?style=for-the-badge&logo=Microsoft-Edge&logoColor=white" /></a>
 <a href="mailto:christoph [dot] [lastname] [at] posteo.de"><img src="https://img.shields.io/badge/Email-ad4c35?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/christophalt"><img src="https://img.shields.io/badge/linkedin-000e20.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://scholar.google.de/citations?user=JiJIrfwAAAAJ=en"><img src="https://img.shields.io/badge/scholar-0076b2.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
