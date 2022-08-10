@@ -6,7 +6,7 @@ I'm a postdoc in the [Machine Learning group](https://www.informatik.hu-berlin.d
 Previously, I was a postdoc (senior researcher) and doctoral student in the [speech and language technology group](https://dfki-nlp.github.io/) at the German Research Center for AI (DFKI), supervised by [Prof. Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/parameter/en/) and [Prof. Hans Uszkoreit](http://hans.uszkoreit.net/).
 
 ##### My current research interests are:
-- Joint modeling of vision and language
+- Model editing and continual knowledge learning
 - Self- and semi-supervised learning
 - Learning with noisy labels
 - Information extraction
